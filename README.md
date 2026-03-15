@@ -11,7 +11,7 @@ This project was developed during my internship at **[LiveTech-India]**. The goa
 A significant portion of the technical foundation and logic for this project was built using resources and tutorials provided by **DaFluffyPotato**. 
 
 * **DaFluffyPotato's YouTube:** [https://www.youtube.com/channel/UCYNrBrBOgTfHswcz2DdZQFA]
-* Special thanks for the insights into [mention a specific thing you learned, e.g., tilemaps, particle systems, or frame-independent movement].
+* Special thanks for the insights into tilemaps, particle systems, or frame-independent movement.
 
 ## 🛠️ Built With
 
